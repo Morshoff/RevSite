@@ -1,0 +1,144 @@
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516
+File Name: C:\Downloaded Web Sites\www.agveite.com\beacon.min.js\v8c78df7c7c0f484497ecbca7046644da1771523124516
+Content Type: text/javascript
+
+Uri: https://www.agveite.com/
+File Name: C:\Downloaded Web Sites\www.agveite.com\index.htm
+Content Type: text/html
+
+Uri: https://www.agveite.com/agency
+File Name: C:\Downloaded Web Sites\www.agveite.com\agency.html
+Content Type: text/html
+
+Uri: https://www.agveite.com/contact
+File Name: C:\Downloaded Web Sites\www.agveite.com\contact.html
+Content Type: text/html
+
+Uri: https://www.agveite.com/contactus/logo.mp4
+File Name: C:\Downloaded Web Sites\www.agveite.com\contactus\logo.mp4
+Content Type: video/mp4
+
+Uri: https://www.agveite.com/favicon.png
+File Name: C:\Downloaded Web Sites\www.agveite.com\favicon.png
+Content Type: image/png
+
+Uri: https://www.agveite.com/favicon_apple.png
+File Name: C:\Downloaded Web Sites\www.agveite.com\favicon_apple.png
+Content Type: image/png
+
+Uri: https://www.agveite.com/index.webm
+File Name: C:\Downloaded Web Sites\www.agveite.com\index.webm
+Content Type: video/webm
+
+Uri: https://www.agveite.com/works
+File Name: C:\Downloaded Web Sites\www.agveite.com\works.html
+Content Type: text/html
+
+Uri: https://www.agveite.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F0001.7bd1f071.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\0001.webp
+Content Type: image/webp
+
+Uri: https://www.agveite.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F0001.7bd1f071.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\0001-1.webp
+Content Type: image/webp
+
+Uri: https://www.agveite.com/_next/static/chunks/261-89e3db9880d7c848.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\261-89e3db9880d7c848.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/4bd1b696-2af8166ea8c5ff05.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\4bd1b696-2af8166ea8c5ff05.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/517-7af53b3ab55ccbb2.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\517-7af53b3ab55ccbb2.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/709-872b4f6cb3c08d94.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\709-872b4f6cb3c08d94.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/908-3a7aadb7efb00d41.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\908-3a7aadb7efb00d41.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/951-937e8af71d40d28f.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\951-937e8af71d40d28f.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/990-dddcc09f5c8ff2bb.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\990-dddcc09f5c8ff2bb.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/app/agency/page-7cd33117bf25dc9b.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\app\agency\page-7cd33117bf25dc9b.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/app/contact/page-b6f67fad4ed34de7.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\app\contact\page-b6f67fad4ed34de7.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/app/layout-f0010ba6b2acade7.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\app\layout-f0010ba6b2acade7.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/app/not-found-44b6226abcdd4024.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\app\not-found-44b6226abcdd4024.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/app/page-727a1b2a55057b94.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\app\page-727a1b2a55057b94.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/app/works/page-32d4b9e086cccebe.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\app\works\page-32d4b9e086cccebe.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/main-app-239fc0cc716759c7.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\main-app-239fc0cc716759c7.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/chunks/webpack-0143271c0e11bd3b.js
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\chunks\webpack-0143271c0e11bd3b.js
+Content Type: application/javascript
+
+Uri: https://www.agveite.com/_next/static/css/ec22fa11014f5ea6.css
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\css\ec22fa11014f5ea6.css
+Content Type: text/css
+
+Uri: https://www.agveite.com/_next/static/css/fe6c6c2f2f0864e1.css
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\css\fe6c6c2f2f0864e1.css
+Content Type: text/css
+
+Uri: https://www.agveite.com/_next/static/media/55afa583c4dd4985-s.p.otf
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\media\55afa583c4dd4985-s.p.otf
+Content Type: font/otf
+
+Uri: https://www.agveite.com/_next/static/media/arrow.f923c223.svg
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\media\arrow.f923c223.svg
+Content Type: image/svg+xml
+
+Uri: https://www.agveite.com/_next/static/media/arrowBlue.2e9c64d5.svg
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\media\arrowBlue.2e9c64d5.svg
+Content Type: image/svg+xml
+
+Uri: https://www.agveite.com/_next/static/media/f243d9d982254900-s.p.otf
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\media\f243d9d982254900-s.p.otf
+Content Type: font/otf
+
+Uri: https://www.agveite.com/_next/static/media/logo.19a998af.svg
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\media\logo.19a998af.svg
+Content Type: image/svg+xml
+
+Uri: https://www.agveite.com/_next/static/media/navburger.d82029d5.svg
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\media\navburger.d82029d5.svg
+Content Type: image/svg+xml
+
+Uri: https://www.agveite.com/_next/static/media/scrollTop.bc8f075a.svg
+File Name: C:\Downloaded Web Sites\www.agveite.com\_next\static\media\scrollTop.bc8f075a.svg
+Content Type: image/svg+xml
+
